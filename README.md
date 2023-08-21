@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Ch0rckBean🫧&&fontSize=100&animation=scaleIn)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rckbean&layout=compact"><br><br>
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rckbean&layout=compact"><br><br>
 
 ## 🖍️ SNS
 <a href="https://blog.naver.com/ch0rckbean" target=_blink>
