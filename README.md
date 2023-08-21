@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rckbean&layout=compact"><br><br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## 🖍️ SNS
 <a href="https://blog.naver.com/ch0rckbean" target=_blink>
