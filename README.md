@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 
-<img src="https://img.shields.io/badge/HTML5-FFF?style=plastic&logo=Python&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-FFF?style=plastic&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-DD3A0A?style=plastic&logo=CSS3&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Python-1E8CBE?style=plastic&logo=Python&logoColor=FFD900"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=fff"/>
