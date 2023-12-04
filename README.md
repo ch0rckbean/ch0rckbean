@@ -4,8 +4,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rckbean&layout=compact"> <br><br>
-![Ch0rckbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0rckbean&show_icons=true&theme=synthwave&hide_border=true&bg_color=ffffff&icon_color=56bf56&text_color=379237&title_color=56bf56&count_private=true&repo=github-readme-stats) <br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=ch0rckbean&rank=SSS,SS,S,AAA,AA,A&margin-w=15)
+![Ch0rckbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0rckbean&show_icons=true&theme=synthwave&hide_border=true&bg_color=ffffff&icon_color=56bf56&text_color=379237&title_color=56bf56&count_private=true&repo=github-readme-stats)
 
 --------
 
