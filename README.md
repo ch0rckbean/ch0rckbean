@@ -7,9 +7,7 @@
 --------
 
 ## 🖍️ SNS
-<a href="https://blog.naver.com/ch0rckbean" target="_blank">
-  <img src="https://img.shields.io/badge/NAVER-03C75A?style=plastic&logo=naver&logoColor=F3FDE8" />
-</a>
+
 <a href="https://velog.io/@chr0ckbean" target="_blank">
   <img src="https://img.shields.io/badge/Velog-F3FDE8?style=plastic&logo=velog&logoColor=20C997" />
 </a>
